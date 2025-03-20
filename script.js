@@ -18,6 +18,7 @@ domReady(function () {
         return fetch('mcc.json')
             .then(response => response.json())
             .then(data => {
+                alert(data.data);
                 return data.data;
             })
             .catch(error => {
