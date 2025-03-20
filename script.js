@@ -60,7 +60,7 @@ domReady(function () {
         alert("MCC Code not found in the QR code.");
         }
         //htmlscanner.clear();
-        htmlscanner.stop();
+        //htmlscanner.stop();
        
         }
 
