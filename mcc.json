@@ -1,38 +1,3924 @@
-[
-    {
-        "MCC Code": "742",
-        "Classification": "Veterinary Services "
-    },
-    {
-        "MCC Code": "763",
-        "Classification": "Agricultural Co-operatives "
-    },
-    {
-        "MCC Code": "780",
-        "Classification": "Horticultural Services, Landscaping Services "
-    },
-    {
-        "MCC Code": "1520",
-        "Classification": "General Contractors-Residential and Commercial "
-    },
-    {
-        "MCC Code": "1711",
-        "Classification": "Air Conditioning Contractors - Sales and Installation, Heating Contractors - Sales, Service, Installation "
-    },
-    {
-        "MCC Code": "1731",
-        "Classification": "Electrical Contractors "
-    },
-    {
-        "MCC Code": "1740",
-        "Classification": "Insulation - Contractors, Masonry, Stonework Contractors, Plastering Contractors, Stonework and Masonry Contractors, Tile Settings Contractors "
-    },
-    {
-        "MCC Code": "1750",
-        "Classification": "Carpentry Contractors "
-    },
-    {
-        "MCC Code": "1761",
-        "Classification": "Roofing - Contractors, Sheet Metal Work - Contractors, Siding - Contractors "
-    }
-]
+{"data":[{
+  "MCC Code" : 742,
+  "Classification" : "Veterinary Services"
+},
+{
+  "MCC Code" : 763,
+  "Classification" : "Agricultural Co-operatives"
+},
+{
+  "MCC Code" : 780,
+  "Classification" : "Horticultural Services, Landscaping Services"
+},
+{
+  "MCC Code" : 1520,
+  "Classification" : "General Contractors-Residential and Commercial"
+},
+{
+  "MCC Code" : 1711,
+  "Classification" : "Air Conditioning Contractors - Sales and Installation, Heating Contractors - Sales, Service, Installation"
+},
+{
+  "MCC Code" : 1731,
+  "Classification" : "Electrical Contractors"
+},
+{
+  "MCC Code" : 1740,
+  "Classification" : "Insulation - Contractors, Masonry, Stonework Contractors, Plastering Contractors, Stonework and Masonry Contractors, Tile Settings Contractors"
+},
+{
+  "MCC Code" : 1750,
+  "Classification" : "Carpentry Contractors"
+},
+{
+  "MCC Code" : 1761,
+  "Classification" : "Roofing - Contractors, Sheet Metal Work - Contractors, Siding - Contractors"
+},
+{
+  "MCC Code" : 1771,
+  "Classification" : "Contractors - Concrete Work"
+},
+{
+  "MCC Code" : 1799,
+  "Classification" : "Contractors - Special Trade, Not Elsewhere Classified"
+},
+{
+  "MCC Code" : 2741,
+  "Classification" : "Miscellaneous Publishing and Printing"
+},
+{
+  "MCC Code" : 2791,
+  "Classification" : "Typesetting, Plate Making, & Related Services"
+},
+{
+  "MCC Code" : 2842,
+  "Classification" : "Specialty Cleaning, Polishing, and Sanitation Preparations"
+},
+{
+  "MCC Code" : 3000,
+  "Classification" : "UNITED AIRLINES"
+},
+{
+  "MCC Code" : 3001,
+  "Classification" : "AMERICAN AIRLINES"
+},
+{
+  "MCC Code" : 3002,
+  "Classification" : "PAN AMERICAN"
+},
+{
+  "MCC Code" : 3003,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3004,
+  "Classification" : "TRANS WORLD AIRLINES"
+},
+{
+  "MCC Code" : 3005,
+  "Classification" : "BRITISH AIRWAYS"
+},
+{
+  "MCC Code" : 3006,
+  "Classification" : "JAPAN AIRLINES"
+},
+{
+  "MCC Code" : 3007,
+  "Classification" : "AIR FRANCE"
+},
+{
+  "MCC Code" : 3008,
+  "Classification" : "LUFTHANSA"
+},
+{
+  "MCC Code" : 3009,
+  "Classification" : "AIR CANADA"
+},
+{
+  "MCC Code" : 3010,
+  "Classification" : "KLM (ROYAL DUTCH AIRLINES)"
+},
+{
+  "MCC Code" : 3011,
+  "Classification" : "AEORFLOT"
+},
+{
+  "MCC Code" : 3012,
+  "Classification" : "QANTAS"
+},
+{
+  "MCC Code" : 3013,
+  "Classification" : "ALITALIA"
+},
+{
+  "MCC Code" : 3014,
+  "Classification" : "SAUDIA ARABIAN AIRLINES"
+},
+{
+  "MCC Code" : 3015,
+  "Classification" : "SWISSAIR"
+},
+{
+  "MCC Code" : 3016,
+  "Classification" : "SAS"
+},
+{
+  "MCC Code" : 3017,
+  "Classification" : "SOUTH AFRICAN AIRWAYS"
+},
+{
+  "MCC Code" : 3018,
+  "Classification" : "VARIG (BRAZIL)"
+},
+{
+  "MCC Code" : 3019,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3020,
+  "Classification" : "AIR-INDIA"
+},
+{
+  "MCC Code" : 3021,
+  "Classification" : "AIR ALGERIE"
+},
+{
+  "MCC Code" : 3022,
+  "Classification" : "PHILIPPINE AIRLINES"
+},
+{
+  "MCC Code" : 3023,
+  "Classification" : "MEXICANA"
+},
+{
+  "MCC Code" : 3024,
+  "Classification" : "PAKISTAN INTERNATIONAL"
+},
+{
+  "MCC Code" : 3025,
+  "Classification" : "AIR NEW ZEALAND"
+},
+{
+  "MCC Code" : 3026,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3027,
+  "Classification" : "UTA/INTERAIR"
+},
+{
+  "MCC Code" : 3028,
+  "Classification" : "AIR MALTA"
+},
+{
+  "MCC Code" : 3029,
+  "Classification" : "SABENA"
+},
+{
+  "MCC Code" : 3030,
+  "Classification" : "AEROLINEAS ARGENTINAS"
+},
+{
+  "MCC Code" : 3031,
+  "Classification" : "OLYMPIC AIRWAYS"
+},
+{
+  "MCC Code" : 3032,
+  "Classification" : "EL AL"
+},
+{
+  "MCC Code" : 3033,
+  "Classification" : "ANSETT AIRLINES"
+},
+{
+  "MCC Code" : 3034,
+  "Classification" : "AUSTRAINLIAN AIRLINES"
+},
+{
+  "MCC Code" : 3035,
+  "Classification" : "TAP (PORTUGAL)"
+},
+{
+  "MCC Code" : 3036,
+  "Classification" : "VASP (BRAZIL)"
+},
+{
+  "MCC Code" : 3037,
+  "Classification" : "EGYPTAIR"
+},
+{
+  "MCC Code" : 3038,
+  "Classification" : "KUWAIT AIRLINES"
+},
+{
+  "MCC Code" : 3039,
+  "Classification" : "AVIANCA"
+},
+{
+  "MCC Code" : 3040,
+  "Classification" : "GULF AIR (BAHRAIN)"
+},
+{
+  "MCC Code" : 3041,
+  "Classification" : "BALKAN-BULGARIAN AIRLINES"
+},
+{
+  "MCC Code" : 3042,
+  "Classification" : "FINNAIR"
+},
+{
+  "MCC Code" : 3043,
+  "Classification" : "AER LINGUS"
+},
+{
+  "MCC Code" : 3044,
+  "Classification" : "AIR LANKA"
+},
+{
+  "MCC Code" : 3045,
+  "Classification" : "NIGERIA AIRWAYS"
+},
+{
+  "MCC Code" : 3046,
+  "Classification" : "CRUZEIRO DO SUL (BRAZIJ)"
+},
+{
+  "MCC Code" : 3047,
+  "Classification" : "THY (TURKEY)"
+},
+{
+  "MCC Code" : 3048,
+  "Classification" : "ROYAL AIR MAROC"
+},
+{
+  "MCC Code" : 3049,
+  "Classification" : "TUNIS AIR"
+},
+{
+  "MCC Code" : 3050,
+  "Classification" : "ICELANDAIR"
+},
+{
+  "MCC Code" : 3051,
+  "Classification" : "AUSTRIAN AIRLINES"
+},
+{
+  "MCC Code" : 3052,
+  "Classification" : "LANCHILE"
+},
+{
+  "MCC Code" : 3053,
+  "Classification" : "AVIACO (SPAIN)"
+},
+{
+  "MCC Code" : 3054,
+  "Classification" : "LADECO (CHILE)"
+},
+{
+  "MCC Code" : 3055,
+  "Classification" : "LAB (BOLIVIA)"
+},
+{
+  "MCC Code" : 3056,
+  "Classification" : "QUEBECAIRE"
+},
+{
+  "MCC Code" : 3057,
+  "Classification" : "EASTWEST AIRLINES (AUSTRALIA)"
+},
+{
+  "MCC Code" : 3058,
+  "Classification" : "DELTA"
+},
+{
+  "MCC Code" : 3059,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3060,
+  "Classification" : "NORTHWEST"
+},
+{
+  "MCC Code" : 3061,
+  "Classification" : "CONTINENTAL"
+},
+{
+  "MCC Code" : 3062,
+  "Classification" : "WESTERN"
+},
+{
+  "MCC Code" : 3063,
+  "Classification" : "US AIR"
+},
+{
+  "MCC Code" : 3064,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3065,
+  "Classification" : "AIRINTER"
+},
+{
+  "MCC Code" : 3066,
+  "Classification" : "SOUTHWEST"
+},
+{
+  "MCC Code" : 3067,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3068,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3069,
+  "Classification" : "SUN COUNTRY AIRLINES"
+},
+{
+  "MCC Code" : 3070,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3071,
+  "Classification" : "AIR BRITISH COLUBIA"
+},
+{
+  "MCC Code" : 3072,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3073,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3074,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3075,
+  "Classification" : "SINGAPORE AIRLINES"
+},
+{
+  "MCC Code" : 3076,
+  "Classification" : "AEROMEXICO"
+},
+{
+  "MCC Code" : 3077,
+  "Classification" : "THAI AIRWAYS"
+},
+{
+  "MCC Code" : 3078,
+  "Classification" : "CHINA AIRLINES"
+},
+{
+  "MCC Code" : 3079,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3080,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3081,
+  "Classification" : "NORDAIR"
+},
+{
+  "MCC Code" : 3082,
+  "Classification" : "KOREAN AIRLINES"
+},
+{
+  "MCC Code" : 3083,
+  "Classification" : "AIR AFRIGUE"
+},
+{
+  "MCC Code" : 3084,
+  "Classification" : "EVA AIRLINES"
+},
+{
+  "MCC Code" : 3085,
+  "Classification" : "MIDWEST EXPRESS AIRLINES, INC."
+},
+{
+  "MCC Code" : 3086,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3087,
+  "Classification" : "METRO AIRLINES"
+},
+{
+  "MCC Code" : 3088,
+  "Classification" : "CROATIA AIRLINES"
+},
+{
+  "MCC Code" : 3089,
+  "Classification" : "TRANSAERO"
+},
+{
+  "MCC Code" : 3090,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3091,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3092,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3093,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3094,
+  "Classification" : "ZAMBIA AIRWAYS"
+},
+{
+  "MCC Code" : 3095,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3096,
+  "Classification" : "AIR ZIMBABWE"
+},
+{
+  "MCC Code" : 3097,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3098,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3099,
+  "Classification" : "CATHAY PACIFIC"
+},
+{
+  "MCC Code" : 3100,
+  "Classification" : "MALAYSIAN AIRLINE SYSTEM"
+},
+{
+  "MCC Code" : 3101,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3102,
+  "Classification" : "IBERIA"
+},
+{
+  "MCC Code" : 3103,
+  "Classification" : "GARUDA (INDONESIA)"
+},
+{
+  "MCC Code" : 3104,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3105,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3106,
+  "Classification" : "BRAATHENS S.A.F.E. (NORWAY)"
+},
+{
+  "MCC Code" : 3107,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3108,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3109,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3110,
+  "Classification" : "WINGS AIRWAYS"
+},
+{
+  "MCC Code" : 3111,
+  "Classification" : "BRITISH MIDLAND"
+},
+{
+  "MCC Code" : 3112,
+  "Classification" : "WINDWARD ISLAND"
+},
+{
+  "MCC Code" : 3113,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3114,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3115,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3116,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3117,
+  "Classification" : "VIASA"
+},
+{
+  "MCC Code" : 3118,
+  "Classification" : "VALLEY AIRLINES"
+},
+{
+  "MCC Code" : 3119,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3120,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3121,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3122,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3123,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3124,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3125,
+  "Classification" : "TAN"
+},
+{
+  "MCC Code" : 3126,
+  "Classification" : "TALAIR"
+},
+{
+  "MCC Code" : 3127,
+  "Classification" : "TACA INTERNATIONAL"
+},
+{
+  "MCC Code" : 3128,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3129,
+  "Classification" : "SURINAM AIRWAYS"
+},
+{
+  "MCC Code" : 3130,
+  "Classification" : "SUN WORLD INTERNATIONAL"
+},
+{
+  "MCC Code" : 3131,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3132,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3133,
+  "Classification" : "SUNBELT AIRLINES"
+},
+{
+  "MCC Code" : 3134,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3135,
+  "Classification" : "SUDAN AIRWAYS"
+},
+{
+  "MCC Code" : 3136,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3137,
+  "Classification" : "SINGLETON"
+},
+{
+  "MCC Code" : 3138,
+  "Classification" : "SIMMONS AIRLINES"
+},
+{
+  "MCC Code" : 3139,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3140,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3141,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3142,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3143,
+  "Classification" : "SCENIC AIRLINES"
+},
+{
+  "MCC Code" : 3144,
+  "Classification" : "VIRGIN ATLANTIC"
+},
+{
+  "MCC Code" : 3145,
+  "Classification" : "SAN JUAN AIRLINES"
+},
+{
+  "MCC Code" : 3146,
+  "Classification" : "LUXAIR"
+},
+{
+  "MCC Code" : 3147,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3148,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3149,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3150,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3151,
+  "Classification" : "AIR ZAIRE"
+},
+{
+  "MCC Code" : 3152,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3153,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3154,
+  "Classification" : "PRINCEVILLE"
+},
+{
+  "MCC Code" : 3155,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3156,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3157,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3158,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3159,
+  "Classification" : "PBA"
+},
+{
+  "MCC Code" : 3160,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3161,
+  "Classification" : "ALL NIPPON AIRWAYS"
+},
+{
+  "MCC Code" : 3162,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3163,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3164,
+  "Classification" : "NORONTAIR"
+},
+{
+  "MCC Code" : 3165,
+  "Classification" : "NEW YORK HELICOPTER"
+},
+{
+  "MCC Code" : 3166,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3167,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3168,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3169,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3170,
+  "Classification" : "NOUNT COOK"
+},
+{
+  "MCC Code" : 3171,
+  "Classification" : "CANADIAN AIRLINES INTERNATIONAL"
+},
+{
+  "MCC Code" : 3172,
+  "Classification" : "NATIONAIR"
+},
+{
+  "MCC Code" : 3173,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3174,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3175,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3176,
+  "Classification" : "METROFLIGHT AIRLINES"
+},
+{
+  "MCC Code" : 3177,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3178,
+  "Classification" : "MESA AIR"
+},
+{
+  "MCC Code" : 3179,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3180,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3181,
+  "Classification" : "MALEV"
+},
+{
+  "MCC Code" : 3182,
+  "Classification" : "LOT (POLAND)"
+},
+{
+  "MCC Code" : 3183,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3184,
+  "Classification" : "LIAT"
+},
+{
+  "MCC Code" : 3185,
+  "Classification" : "LAV (VENEZUELA)"
+},
+{
+  "MCC Code" : 3186,
+  "Classification" : "LAP (PARAGUAY)"
+},
+{
+  "MCC Code" : 3187,
+  "Classification" : "LACSA (COSTA RICA)"
+},
+{
+  "MCC Code" : 3188,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3189,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3190,
+  "Classification" : "JUGOSLAV AIR"
+},
+{
+  "MCC Code" : 3191,
+  "Classification" : "ISLAND AIRLINES"
+},
+{
+  "MCC Code" : 3192,
+  "Classification" : "IRAN AIR"
+},
+{
+  "MCC Code" : 3193,
+  "Classification" : "INDIAN AIRLINES"
+},
+{
+  "MCC Code" : 3194,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3195,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3196,
+  "Classification" : "HAWAIIAN AIR"
+},
+{
+  "MCC Code" : 3197,
+  "Classification" : "HAVASU AIRLINES"
+},
+{
+  "MCC Code" : 3198,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3199,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3200,
+  "Classification" : "FUYANA AIRWAYS"
+},
+{
+  "MCC Code" : 3201,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3202,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3203,
+  "Classification" : "GOLDEN PACIFIC AIR"
+},
+{
+  "MCC Code" : 3204,
+  "Classification" : "FREEDOM AIR"
+},
+{
+  "MCC Code" : 3205,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3206,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3207,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3208,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3209,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3210,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3211,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3212,
+  "Classification" : "DOMINICANA"
+},
+{
+  "MCC Code" : 3213,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3214,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3215,
+  "Classification" : "DAN AIR SERVICES"
+},
+{
+  "MCC Code" : 3216,
+  "Classification" : "CUMBERLAND AIRLINES"
+},
+{
+  "MCC Code" : 3217,
+  "Classification" : "CSA"
+},
+{
+  "MCC Code" : 3218,
+  "Classification" : "CROWN AIR"
+},
+{
+  "MCC Code" : 3219,
+  "Classification" : "COPA"
+},
+{
+  "MCC Code" : 3220,
+  "Classification" : "COMPANIA FAUCETT"
+},
+{
+  "MCC Code" : 3221,
+  "Classification" : "TRANSPORTES AEROS MILITARES ECCUATORANOS"
+},
+{
+  "MCC Code" : 3222,
+  "Classification" : "COMMAND AIRWAYS"
+},
+{
+  "MCC Code" : 3223,
+  "Classification" : "COMAIR"
+},
+{
+  "MCC Code" : 3224,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3225,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3226,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3227,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3228,
+  "Classification" : "CAYMAN AIRWAYS"
+},
+{
+  "MCC Code" : 3229,
+  "Classification" : "SAETA SOCIAEDAD ECUATORIANOS DE TRANSPORTES AEREOS"
+},
+{
+  "MCC Code" : 3230,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3231,
+  "Classification" : "SASHA SERVICIO AERO DE HONDURAS"
+},
+{
+  "MCC Code" : 3232,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3233,
+  "Classification" : "CAPITOL AIR"
+},
+{
+  "MCC Code" : 3234,
+  "Classification" : "BWIA"
+},
+{
+  "MCC Code" : 3235,
+  "Classification" : "BROKWAY AIR"
+},
+{
+  "MCC Code" : 3236,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3237,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3238,
+  "Classification" : "BEMIDJI AIRLINES"
+},
+{
+  "MCC Code" : 3239,
+  "Classification" : "BAR HARBOR AIRLINES"
+},
+{
+  "MCC Code" : 3240,
+  "Classification" : "BAHAMASAIR"
+},
+{
+  "MCC Code" : 3241,
+  "Classification" : "AVIATECA (GUATEMALA)"
+},
+{
+  "MCC Code" : 3242,
+  "Classification" : "AVENSA"
+},
+{
+  "MCC Code" : 3243,
+  "Classification" : "AUSTRIAN AIR SERVICE"
+},
+{
+  "MCC Code" : 3244,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3245,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3246,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3247,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3248,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3249,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3250,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3251,
+  "Classification" : "ALOHA AIRLINES"
+},
+{
+  "MCC Code" : 3252,
+  "Classification" : "ALM"
+},
+{
+  "MCC Code" : 3253,
+  "Classification" : "AMERICA WEST"
+},
+{
+  "MCC Code" : 3254,
+  "Classification" : "TRUMP AIRLINE"
+},
+{
+  "MCC Code" : 3255,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3256,
+  "Classification" : "ALASKA AIRLINES"
+},
+{
+  "MCC Code" : 3257,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3258,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3259,
+  "Classification" : "AMERICAN TRANS AIR"
+},
+{
+  "MCC Code" : 3260,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3261,
+  "Classification" : "AIR CHINA"
+},
+{
+  "MCC Code" : 3262,
+  "Classification" : "RENO AIR, INC."
+},
+{
+  "MCC Code" : 3263,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3264,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3265,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3266,
+  "Classification" : "AIR SEYCHELLES"
+},
+{
+  "MCC Code" : 3267,
+  "Classification" : "AIR PANAMA"
+},
+{
+  "MCC Code" : 3268,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3269,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3270,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3271,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3272,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3273,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3274,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3275,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3276,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3277,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3278,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3279,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3280,
+  "Classification" : "AIR JAMAICA"
+},
+{
+  "MCC Code" : 3281,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3282,
+  "Classification" : "AIR DJIBOUTI"
+},
+{
+  "MCC Code" : 3283,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3284,
+  "Classification" : "AERO VIRGIN ISLANDS"
+},
+{
+  "MCC Code" : 3285,
+  "Classification" : "AERO PERU"
+},
+{
+  "MCC Code" : 3286,
+  "Classification" : "AEROLINEAS NICARAGUENSIS"
+},
+{
+  "MCC Code" : 3287,
+  "Classification" : "AERO COACH AVAIATION"
+},
+{
+  "MCC Code" : 3288,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3289,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3290,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3291,
+  "Classification" : "ARIANA AFGHAN"
+},
+{
+  "MCC Code" : 3292,
+  "Classification" : "CYPRUS AIRWAYS"
+},
+{
+  "MCC Code" : 3293,
+  "Classification" : "ECUATORIANA"
+},
+{
+  "MCC Code" : 3294,
+  "Classification" : "ETHIOPIAN AIRLINES"
+},
+{
+  "MCC Code" : 3295,
+  "Classification" : "KENYA AIRLINES"
+},
+{
+  "MCC Code" : 3296,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3297,
+  "Classification" : "Airlines"
+},
+{
+  "MCC Code" : 3298,
+  "Classification" : "AIR MAURITIUS"
+},
+{
+  "MCC Code" : 3299,
+  "Classification" : "WIDEROâ€™S FLYVESELSKAP"
+},
+{
+  "MCC Code" : 3351,
+  "Classification" : "AFFILIATED AUTO RENTAL"
+},
+{
+  "MCC Code" : 3352,
+  "Classification" : "AMERICAN INTL RENT-A-CAR"
+},
+{
+  "MCC Code" : 3353,
+  "Classification" : "BROOKS RENT-A-CAR"
+},
+{
+  "MCC Code" : 3354,
+  "Classification" : "ACTION AUTO RENTAL"
+},
+{
+  "MCC Code" : 3355,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3356,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3357,
+  "Classification" : "HERTZ RENT-A-CAR"
+},
+{
+  "MCC Code" : 3358,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3359,
+  "Classification" : "PAYLESS CAR RENTAL"
+},
+{
+  "MCC Code" : 3360,
+  "Classification" : "SNAPPY CAR RENTAL"
+},
+{
+  "MCC Code" : 3361,
+  "Classification" : "AIRWAYS RENT-A-CAR"
+},
+{
+  "MCC Code" : 3362,
+  "Classification" : "ALTRA AUTO RENTAL"
+},
+{
+  "MCC Code" : 3363,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3364,
+  "Classification" : "AGENCY RENT-A-CAR"
+},
+{
+  "MCC Code" : 3365,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3366,
+  "Classification" : "BUDGET RENT-A-CAR"
+},
+{
+  "MCC Code" : 3367,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3368,
+  "Classification" : "HOLIDAY RENT-A-WRECK"
+},
+{
+  "MCC Code" : 3369,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3370,
+  "Classification" : "RENT-A-WRECK"
+},
+{
+  "MCC Code" : 3371,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3372,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3373,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3374,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3375,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3376,
+  "Classification" : "AJAX RENT-A-CAR"
+},
+{
+  "MCC Code" : 3377,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3378,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3379,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3380,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3381,
+  "Classification" : "EUROP CAR"
+},
+{
+  "MCC Code" : 3382,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3383,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3384,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3385,
+  "Classification" : "TROPICAL RENT-A-CAR"
+},
+{
+  "MCC Code" : 3386,
+  "Classification" : "SHOWCASE RENTAL CARS"
+},
+{
+  "MCC Code" : 3387,
+  "Classification" : "ALAMO RENT-A-CAR"
+},
+{
+  "MCC Code" : 3388,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3389,
+  "Classification" : "AVIS RENT-A-CAR"
+},
+{
+  "MCC Code" : 3390,
+  "Classification" : "DOLLAR RENT-A-CAR"
+},
+{
+  "MCC Code" : 3391,
+  "Classification" : "EUROPE BY CAR"
+},
+{
+  "MCC Code" : 3392,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3393,
+  "Classification" : "NATIONAL CAR RENTAL"
+},
+{
+  "MCC Code" : 3394,
+  "Classification" : "KEMWELL GROUP RENT-A-CAR"
+},
+{
+  "MCC Code" : 3395,
+  "Classification" : "THRIFTY RENT-A-CAR"
+},
+{
+  "MCC Code" : 3396,
+  "Classification" : "TILDEN TENT-A-CAR"
+},
+{
+  "MCC Code" : 3397,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3398,
+  "Classification" : "ECONO-CAR RENT-A-CAR"
+},
+{
+  "MCC Code" : 3399,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3400,
+  "Classification" : "AUTO HOST COST CAR RENTALS"
+},
+{
+  "MCC Code" : 3401,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3402,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3403,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3404,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3405,
+  "Classification" : "ENTERPRISE RENT-A-CAR"
+},
+{
+  "MCC Code" : 3406,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3407,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3408,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3409,
+  "Classification" : "GENERAL RENT-A-CAR"
+},
+{
+  "MCC Code" : 3410,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3411,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3412,
+  "Classification" : "A-1 RENT-A-CAR"
+},
+{
+  "MCC Code" : 3413,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3414,
+  "Classification" : "GODFREY NATL RENT-A-CAR"
+},
+{
+  "MCC Code" : 3415,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3416,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3417,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3418,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3419,
+  "Classification" : "ALPHA RENT-A-CAR"
+},
+{
+  "MCC Code" : 3420,
+  "Classification" : "ANSA INTL RENT-A-CAR"
+},
+{
+  "MCC Code" : 3421,
+  "Classification" : "ALLSTAE RENT-A-CAR"
+},
+{
+  "MCC Code" : 3422,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3423,
+  "Classification" : "AVCAR RENT-A-CAR"
+},
+{
+  "MCC Code" : 3424,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3425,
+  "Classification" : "AUTOMATE RENT-A-CAR"
+},
+{
+  "MCC Code" : 3426,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3427,
+  "Classification" : "AVON RENT-A-CAR"
+},
+{
+  "MCC Code" : 3428,
+  "Classification" : "CAREY RENT-A-CAR"
+},
+{
+  "MCC Code" : 3429,
+  "Classification" : "INSURANCE RENT-A-CAR"
+},
+{
+  "MCC Code" : 3430,
+  "Classification" : "MAJOR RENT-A-CAR"
+},
+{
+  "MCC Code" : 3431,
+  "Classification" : "REPLACEMENT RENT-A-CAR"
+},
+{
+  "MCC Code" : 3432,
+  "Classification" : "RESERVE RENT-A-CAR"
+},
+{
+  "MCC Code" : 3433,
+  "Classification" : "UGLY DUCKLING RENT-A-CAR"
+},
+{
+  "MCC Code" : 3434,
+  "Classification" : "USA RENT-A-CAR"
+},
+{
+  "MCC Code" : 3435,
+  "Classification" : "VALUE RENT-A-CAR"
+},
+{
+  "MCC Code" : 3436,
+  "Classification" : "AUTOHANSA RENT-A-CAR"
+},
+{
+  "MCC Code" : 3437,
+  "Classification" : "CITE RENT-A-CAR"
+},
+{
+  "MCC Code" : 3438,
+  "Classification" : "INTERENT RENT-A-CAR"
+},
+{
+  "MCC Code" : 3439,
+  "Classification" : "MILLEVILLE RENT-A-CAR"
+},
+{
+  "MCC Code" : 3440,
+  "Classification" : "VIA ROUTE RENT-A-CAR"
+},
+{
+  "MCC Code" : 3441,
+  "Classification" : "Car Rental"
+},
+{
+  "MCC Code" : 3501,
+  "Classification" : "HOLIDAY INNS, HOLIDAY INN EXPRESS"
+},
+{
+  "MCC Code" : 3502,
+  "Classification" : "BEST WESTERN HOTELS"
+},
+{
+  "MCC Code" : 3503,
+  "Classification" : "SHERATON HOTELS"
+},
+{
+  "MCC Code" : 3504,
+  "Classification" : "HILTON HOTELS"
+},
+{
+  "MCC Code" : 3505,
+  "Classification" : "FORTE HOTELS"
+},
+{
+  "MCC Code" : 3506,
+  "Classification" : "GOLDEN TULIP HOTELS"
+},
+{
+  "MCC Code" : 3507,
+  "Classification" : "FRIENDSHIP INNS"
+},
+{
+  "MCC Code" : 3508,
+  "Classification" : "QUALITY INNS, QUALITY SUITES"
+},
+{
+  "MCC Code" : 3509,
+  "Classification" : "MARRIOTT HOTELS"
+},
+{
+  "MCC Code" : 3510,
+  "Classification" : "DAYS INN, DAYSTOP"
+},
+{
+  "MCC Code" : 3511,
+  "Classification" : "ARABELLA HOTELS"
+},
+{
+  "MCC Code" : 3512,
+  "Classification" : "INTER-CONTINENTAL HOTELS"
+},
+{
+  "MCC Code" : 3513,
+  "Classification" : "WESTIN HOTELS"
+},
+{
+  "MCC Code" : 3514,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3515,
+  "Classification" : "RODEWAY INNS"
+},
+{
+  "MCC Code" : 3516,
+  "Classification" : "LA QUINTA MOTOR INNS"
+},
+{
+  "MCC Code" : 3517,
+  "Classification" : "AMERICANA HOTELS"
+},
+{
+  "MCC Code" : 3518,
+  "Classification" : "SOL HOTELS"
+},
+{
+  "MCC Code" : 3519,
+  "Classification" : "PULLMAN INTERNATIONAL HOTELS"
+},
+{
+  "MCC Code" : 3520,
+  "Classification" : "MERIDIEN HOTELS"
+},
+{
+  "MCC Code" : 3521,
+  "Classification" : "CREST HOTELS (see FORTE HOTELS)"
+},
+{
+  "MCC Code" : 3522,
+  "Classification" : "TOKYO HOTEL"
+},
+{
+  "MCC Code" : 3523,
+  "Classification" : "PENNSULA HOTEL"
+},
+{
+  "MCC Code" : 3524,
+  "Classification" : "WELCOMGROUP HOTELS"
+},
+{
+  "MCC Code" : 3525,
+  "Classification" : "DUNFEY HOTELS"
+},
+{
+  "MCC Code" : 3526,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3527,
+  "Classification" : "DOWNTOWNER-PASSPORT HOTEL"
+},
+{
+  "MCC Code" : 3528,
+  "Classification" : "RED LION HOTELS, RED LION INNS"
+},
+{
+  "MCC Code" : 3529,
+  "Classification" : "CP HOTELS"
+},
+{
+  "MCC Code" : 3530,
+  "Classification" : "RENAISSANCE HOTELS, STOUFFER HOTELS"
+},
+{
+  "MCC Code" : 3531,
+  "Classification" : "ASTIR HOTELS"
+},
+{
+  "MCC Code" : 3532,
+  "Classification" : "SUN ROUTE HOTELS"
+},
+{
+  "MCC Code" : 3533,
+  "Classification" : "HOTEL IBIS"
+},
+{
+  "MCC Code" : 3534,
+  "Classification" : "SOUTHERN PACIFIC HOTELS"
+},
+{
+  "MCC Code" : 3535,
+  "Classification" : "HILTON INTERNATIONAL"
+},
+{
+  "MCC Code" : 3536,
+  "Classification" : "AMFAC HOTELS"
+},
+{
+  "MCC Code" : 3537,
+  "Classification" : "ANA HOTEL"
+},
+{
+  "MCC Code" : 3538,
+  "Classification" : "CONCORDE HOTELS"
+},
+{
+  "MCC Code" : 3539,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3540,
+  "Classification" : "IBEROTEL HOTELS"
+},
+{
+  "MCC Code" : 3541,
+  "Classification" : "HOTEL OKURA"
+},
+{
+  "MCC Code" : 3542,
+  "Classification" : "ROYAL HOTELS"
+},
+{
+  "MCC Code" : 3543,
+  "Classification" : "FOUR SEASONS HOTELS"
+},
+{
+  "MCC Code" : 3544,
+  "Classification" : "CIGA HOTELS"
+},
+{
+  "MCC Code" : 3545,
+  "Classification" : "SHANGRI-LA INTERNATIONAL"
+},
+{
+  "MCC Code" : 3546,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3547,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3548,
+  "Classification" : "HOTELES MELIA"
+},
+{
+  "MCC Code" : 3549,
+  "Classification" : "AUBERGE DES GOVERNEURS"
+},
+{
+  "MCC Code" : 3550,
+  "Classification" : "REGAL 8 INNS"
+},
+{
+  "MCC Code" : 3551,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3552,
+  "Classification" : "COAST HOTELS"
+},
+{
+  "MCC Code" : 3553,
+  "Classification" : "PARK INNS INTERNATIONAL"
+},
+{
+  "MCC Code" : 3554,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3555,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3556,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3557,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3558,
+  "Classification" : "JOLLY HOTELS"
+},
+{
+  "MCC Code" : 3559,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3560,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3561,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3562,
+  "Classification" : "COMFORT INNS"
+},
+{
+  "MCC Code" : 3563,
+  "Classification" : "JOURNEYâ€™S END MOTLS"
+},
+{
+  "MCC Code" : 3564,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3565,
+  "Classification" : "RELAX INNS"
+},
+{
+  "MCC Code" : 3566,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3567,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3568,
+  "Classification" : "LADBROKE HOTELS"
+},
+{
+  "MCC Code" : 3569,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3570,
+  "Classification" : "FORUM HOTELS"
+},
+{
+  "MCC Code" : 3571,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3572,
+  "Classification" : "MIYAKO HOTELS"
+},
+{
+  "MCC Code" : 3573,
+  "Classification" : "SANDMAN HOTELS"
+},
+{
+  "MCC Code" : 3574,
+  "Classification" : "VENTURE INNS"
+},
+{
+  "MCC Code" : 3575,
+  "Classification" : "VAGABOND HOTELS"
+},
+{
+  "MCC Code" : 3576,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3577,
+  "Classification" : "MANDARIN ORIENTAL HOTEL"
+},
+{
+  "MCC Code" : 3578,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3579,
+  "Classification" : "HOTEL MERCURE"
+},
+{
+  "MCC Code" : 3580,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3581,
+  "Classification" : "DELTA HOTEL"
+},
+{
+  "MCC Code" : 3582,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3583,
+  "Classification" : "SAS HOTELS"
+},
+{
+  "MCC Code" : 3584,
+  "Classification" : "PRINCESS HOTELS INTERNATIONAL"
+},
+{
+  "MCC Code" : 3585,
+  "Classification" : "HUNGAR HOTELS"
+},
+{
+  "MCC Code" : 3586,
+  "Classification" : "SOKOS HOTELS"
+},
+{
+  "MCC Code" : 3587,
+  "Classification" : "DORAL HOTELS"
+},
+{
+  "MCC Code" : 3588,
+  "Classification" : "HELMSLEY HOTELS"
+},
+{
+  "MCC Code" : 3589,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3590,
+  "Classification" : "FAIRMONT HOTELS"
+},
+{
+  "MCC Code" : 3591,
+  "Classification" : "SONESTA HOTELS"
+},
+{
+  "MCC Code" : 3592,
+  "Classification" : "OMNI HOTELS"
+},
+{
+  "MCC Code" : 3593,
+  "Classification" : "CUNARD HOTELS"
+},
+{
+  "MCC Code" : 3594,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3595,
+  "Classification" : "HOSPITALITY INTERNATIONAL"
+},
+{
+  "MCC Code" : 3596,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3597,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3598,
+  "Classification" : "REGENT INTERNATIONAL HOTELS"
+},
+{
+  "MCC Code" : 3599,
+  "Classification" : "PANNONIA HOTELS"
+},
+{
+  "MCC Code" : 3600,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3601,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3602,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3603,
+  "Classification" : "NOAHâ€™S HOTELS"
+},
+{
+  "MCC Code" : 3604,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3605,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3606,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3607,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3608,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3609,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3610,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3611,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3612,
+  "Classification" : "MOVENPICK HOTELS"
+},
+{
+  "MCC Code" : 3613,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3614,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3615,
+  "Classification" : "TRAVELODGE"
+},
+{
+  "MCC Code" : 3616,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3617,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3618,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3619,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3620,
+  "Classification" : "TELFORD INTERNATIONAL"
+},
+{
+  "MCC Code" : 3621,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3622,
+  "Classification" : "MERLIN HOTELS"
+},
+{
+  "MCC Code" : 3623,
+  "Classification" : "DORINT HOTELS"
+},
+{
+  "MCC Code" : 3624,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3625,
+  "Classification" : "HOTLE UNIVERSALE"
+},
+{
+  "MCC Code" : 3626,
+  "Classification" : "PRINCE HOTELS"
+},
+{
+  "MCC Code" : 3627,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3628,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3629,
+  "Classification" : "DAN HOTELS"
+},
+{
+  "MCC Code" : 3630,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3631,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3632,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3633,
+  "Classification" : "RANK HOTELS"
+},
+{
+  "MCC Code" : 3634,
+  "Classification" : "SWISSOTEL"
+},
+{
+  "MCC Code" : 3635,
+  "Classification" : "RESO HOTELS"
+},
+{
+  "MCC Code" : 3636,
+  "Classification" : "SAROVA HOTELS"
+},
+{
+  "MCC Code" : 3637,
+  "Classification" : "RAMADA INNS, RAMADA LIMITED"
+},
+{
+  "MCC Code" : 3638,
+  "Classification" : "HO JO INN, HOWARD JOHNSON"
+},
+{
+  "MCC Code" : 3639,
+  "Classification" : "MOUNT CHARLOTTE THISTLE"
+},
+{
+  "MCC Code" : 3640,
+  "Classification" : "HYATT HOTEL"
+},
+{
+  "MCC Code" : 3641,
+  "Classification" : "SOFITEL HOTELS"
+},
+{
+  "MCC Code" : 3642,
+  "Classification" : "NOVOTEL HOTELS"
+},
+{
+  "MCC Code" : 3643,
+  "Classification" : "STEIGENBERGER HOTELS"
+},
+{
+  "MCC Code" : 3644,
+  "Classification" : "ECONO LODGES"
+},
+{
+  "MCC Code" : 3645,
+  "Classification" : "QUEENS MOAT HOUSES"
+},
+{
+  "MCC Code" : 3646,
+  "Classification" : "SWALLOW HOTELS"
+},
+{
+  "MCC Code" : 3647,
+  "Classification" : "HUSA HOTELS"
+},
+{
+  "MCC Code" : 3648,
+  "Classification" : "DE VERE HOTELS"
+},
+{
+  "MCC Code" : 3649,
+  "Classification" : "RADISSON HOTELS"
+},
+{
+  "MCC Code" : 3650,
+  "Classification" : "RED ROOK INNS"
+},
+{
+  "MCC Code" : 3651,
+  "Classification" : "IMPERIAL LONDON HOTEL"
+},
+{
+  "MCC Code" : 3652,
+  "Classification" : "EMBASSY HOTELS"
+},
+{
+  "MCC Code" : 3653,
+  "Classification" : "PENTA HOTELS"
+},
+{
+  "MCC Code" : 3654,
+  "Classification" : "LOEWS HOTELS"
+},
+{
+  "MCC Code" : 3655,
+  "Classification" : "SCANDIC HOTELS"
+},
+{
+  "MCC Code" : 3656,
+  "Classification" : "SARA HOTELS"
+},
+{
+  "MCC Code" : 3657,
+  "Classification" : "OBEROI HOTELS"
+},
+{
+  "MCC Code" : 3658,
+  "Classification" : "OTANI HOTELS"
+},
+{
+  "MCC Code" : 3659,
+  "Classification" : "TAJ HOTELS INTERNATIONAL"
+},
+{
+  "MCC Code" : 3660,
+  "Classification" : "KNIGHTS INNS"
+},
+{
+  "MCC Code" : 3661,
+  "Classification" : "METROPOLE HOTELS"
+},
+{
+  "MCC Code" : 3662,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3663,
+  "Classification" : "HOTELES EL PRESIDENTS"
+},
+{
+  "MCC Code" : 3664,
+  "Classification" : "FLAG INN"
+},
+{
+  "MCC Code" : 3665,
+  "Classification" : "HAMPTON INNS"
+},
+{
+  "MCC Code" : 3666,
+  "Classification" : "STAKIS HOTELS"
+},
+{
+  "MCC Code" : 3667,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3668,
+  "Classification" : "MARITIM HOTELS"
+},
+{
+  "MCC Code" : 3669,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3670,
+  "Classification" : "ARCARD HOTELS"
+},
+{
+  "MCC Code" : 3671,
+  "Classification" : "ARCTIA HOTELS"
+},
+{
+  "MCC Code" : 3672,
+  "Classification" : "CAMPANIEL HOTELS"
+},
+{
+  "MCC Code" : 3673,
+  "Classification" : "IBUSZ HOTELS"
+},
+{
+  "MCC Code" : 3674,
+  "Classification" : "RANTASIPI HOTELS"
+},
+{
+  "MCC Code" : 3675,
+  "Classification" : "INTERHOTEL CEDOK"
+},
+{
+  "MCC Code" : 3676,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3677,
+  "Classification" : "CLIMAT DE FRANCE HOTELS"
+},
+{
+  "MCC Code" : 3678,
+  "Classification" : "CUMULUS HOTELS"
+},
+{
+  "MCC Code" : 3679,
+  "Classification" : "DANUBIUS HOTEL"
+},
+{
+  "MCC Code" : 3680,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3681,
+  "Classification" : "ADAMS MARK HOTELS"
+},
+{
+  "MCC Code" : 3682,
+  "Classification" : "ALLSTAR INNS"
+},
+{
+  "MCC Code" : 3683,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3684,
+  "Classification" : "BUDGET HOST INNS"
+},
+{
+  "MCC Code" : 3685,
+  "Classification" : "BUDGETEL HOTELS"
+},
+{
+  "MCC Code" : 3686,
+  "Classification" : "SUISSE CHALETS"
+},
+{
+  "MCC Code" : 3687,
+  "Classification" : "CLARION HOTELS"
+},
+{
+  "MCC Code" : 3688,
+  "Classification" : "COMPRI HOTELS"
+},
+{
+  "MCC Code" : 3689,
+  "Classification" : "CONSORT HOTELS"
+},
+{
+  "MCC Code" : 3690,
+  "Classification" : "COURTYARD BY MARRIOTT"
+},
+{
+  "MCC Code" : 3691,
+  "Classification" : "DILLION INNS"
+},
+{
+  "MCC Code" : 3692,
+  "Classification" : "DOUBLETREE HOTELS"
+},
+{
+  "MCC Code" : 3693,
+  "Classification" : "DRURY INNS"
+},
+{
+  "MCC Code" : 3694,
+  "Classification" : "ECONOMY INNS OF AMERICA"
+},
+{
+  "MCC Code" : 3695,
+  "Classification" : "EMBASSY SUITES"
+},
+{
+  "MCC Code" : 3696,
+  "Classification" : "EXEL INNS"
+},
+{
+  "MCC Code" : 3697,
+  "Classification" : "FARFIELD HOTELS"
+},
+{
+  "MCC Code" : 3698,
+  "Classification" : "HARLEY HOTELS"
+},
+{
+  "MCC Code" : 3699,
+  "Classification" : "MIDWAY MOTOR LODGE"
+},
+{
+  "MCC Code" : 3700,
+  "Classification" : "MOTEL 6"
+},
+{
+  "MCC Code" : 3701,
+  "Classification" : "GUEST QUARTERS (Formally PICKETT SUITE HOTELS)"
+},
+{
+  "MCC Code" : 3702,
+  "Classification" : "THE REGISTRY HOTELS"
+},
+{
+  "MCC Code" : 3703,
+  "Classification" : "RESIDENCE INNS"
+},
+{
+  "MCC Code" : 3704,
+  "Classification" : "ROYCE HOTELS"
+},
+{
+  "MCC Code" : 3705,
+  "Classification" : "SANDMAN INNS"
+},
+{
+  "MCC Code" : 3706,
+  "Classification" : "SHILO INNS"
+},
+{
+  "MCC Code" : 3707,
+  "Classification" : "SHONEYâ€™S INNS"
+},
+{
+  "MCC Code" : 3708,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3709,
+  "Classification" : "SUPER8 MOTELS"
+},
+{
+  "MCC Code" : 3710,
+  "Classification" : "THE RITZ CARLTON HOTELS"
+},
+{
+  "MCC Code" : 3711,
+  "Classification" : "FLAG INNS (AUSRALIA)"
+},
+{
+  "MCC Code" : 3712,
+  "Classification" : "GOLDEN CHAIN HOTEL"
+},
+{
+  "MCC Code" : 3713,
+  "Classification" : "QUALITY PACIFIC HOTEL"
+},
+{
+  "MCC Code" : 3714,
+  "Classification" : "FOUR SEASONS HOTEL (AUSTRALIA)"
+},
+{
+  "MCC Code" : 3715,
+  "Classification" : "FARIFIELD INN"
+},
+{
+  "MCC Code" : 3716,
+  "Classification" : "CARLTON HOTELS"
+},
+{
+  "MCC Code" : 3717,
+  "Classification" : "CITY LODGE HOTELS"
+},
+{
+  "MCC Code" : 3718,
+  "Classification" : "KAROS HOTELS"
+},
+{
+  "MCC Code" : 3719,
+  "Classification" : "PROTEA HOTELS"
+},
+{
+  "MCC Code" : 3720,
+  "Classification" : "SOUTHERN SUN HOTELS"
+},
+{
+  "MCC Code" : 3721,
+  "Classification" : "HILTON CONRAD"
+},
+{
+  "MCC Code" : 3722,
+  "Classification" : "WYNDHAM HOTEL AND RESORTS"
+},
+{
+  "MCC Code" : 3723,
+  "Classification" : "RICA HOTELS"
+},
+{
+  "MCC Code" : 3724,
+  "Classification" : "INER NOR HOTELS"
+},
+{
+  "MCC Code" : 3725,
+  "Classification" : "SEAINES PLANATION"
+},
+{
+  "MCC Code" : 3726,
+  "Classification" : "RIO SUITES"
+},
+{
+  "MCC Code" : 3727,
+  "Classification" : "BROADMOOR HOTEL"
+},
+{
+  "MCC Code" : 3728,
+  "Classification" : "BALLYâ€™S HOTEL AND CASINO"
+},
+{
+  "MCC Code" : 3729,
+  "Classification" : "JOHN ASCUAGAâ€™S NUGGET"
+},
+{
+  "MCC Code" : 3730,
+  "Classification" : "MGM GRAND HOTEL"
+},
+{
+  "MCC Code" : 3731,
+  "Classification" : "HARRAHâ€™S HOTELS AND CASINOS"
+},
+{
+  "MCC Code" : 3732,
+  "Classification" : "OPRYLAND HOTEL"
+},
+{
+  "MCC Code" : 3733,
+  "Classification" : "BOCA RATON RESORT"
+},
+{
+  "MCC Code" : 3734,
+  "Classification" : "HARVEY/BRISTOL HOTELS"
+},
+{
+  "MCC Code" : 3735,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3736,
+  "Classification" : "COLORADO BELLE/EDGEWATER RESORT"
+},
+{
+  "MCC Code" : 3737,
+  "Classification" : "RIVIERA HOTEL AND CASINO"
+},
+{
+  "MCC Code" : 3738,
+  "Classification" : "TROPICANA RESORT AND CASINO"
+},
+{
+  "MCC Code" : 3739,
+  "Classification" : "WOODSIDE HOTELS AND RESORTS"
+},
+{
+  "MCC Code" : 3740,
+  "Classification" : "TOWNPLACE SUITES"
+},
+{
+  "MCC Code" : 3741,
+  "Classification" : "MILLENIUM BROADWAY HOTEL"
+},
+{
+  "MCC Code" : 3742,
+  "Classification" : "CLUB MED"
+},
+{
+  "MCC Code" : 3743,
+  "Classification" : "BILTMORE HOTEL AND SUITES"
+},
+{
+  "MCC Code" : 3744,
+  "Classification" : "CAREFREE RESORTS"
+},
+{
+  "MCC Code" : 3745,
+  "Classification" : "ST. REGIS HOTEL"
+},
+{
+  "MCC Code" : 3746,
+  "Classification" : "THE ELIOT HOTEL"
+},
+{
+  "MCC Code" : 3747,
+  "Classification" : "CLUBCORP/CLUB RESORTS"
+},
+{
+  "MCC Code" : 3748,
+  "Classification" : "WELESLEY INNS"
+},
+{
+  "MCC Code" : 3749,
+  "Classification" : "THE BEVERLY HILLS HOTEL"
+},
+{
+  "MCC Code" : 3750,
+  "Classification" : "CROWNE PLAZA HOTELS"
+},
+{
+  "MCC Code" : 3751,
+  "Classification" : "HOMEWOOD SUITES"
+},
+{
+  "MCC Code" : 3752,
+  "Classification" : "PEABODY HOTELS"
+},
+{
+  "MCC Code" : 3753,
+  "Classification" : "GREENBRIAH RESORTS"
+},
+{
+  "MCC Code" : 3754,
+  "Classification" : "AMELIA ISLAND PLANATION"
+},
+{
+  "MCC Code" : 3755,
+  "Classification" : "THE HOMESTEAD"
+},
+{
+  "MCC Code" : 3756,
+  "Classification" : "SOUTH SEAS RESORTS"
+},
+{
+  "MCC Code" : 3757,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3758,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3759,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3760,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3761,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3762,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3763,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3764,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3765,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3766,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3767,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3768,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3769,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3770,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3771,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3772,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3773,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3774,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3775,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3776,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3777,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3778,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3779,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3780,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3781,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3782,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3783,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3784,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3785,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3786,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3787,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3788,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3789,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3790,
+  "Classification" : "Hotels/Motels/Inns/Resorts"
+},
+{
+  "MCC Code" : 3816,
+  "Classification" : "Home2Suites"
+},
+{
+  "MCC Code" : 3835,
+  "Classification" : "* MASTERS ECONOMY INNS"
+},
+{
+  "MCC Code" : 4011,
+  "Classification" : "Railroads"
+},
+{
+  "MCC Code" : 4111,
+  "Classification" : "Local/Suburban Commuter Passenger Transportation - Railroads, Feries, Local Water Transportation."
+},
+{
+  "MCC Code" : 4112,
+  "Classification" : "Passenger Railways"
+},
+{
+  "MCC Code" : 4119,
+  "Classification" : "Ambulance Services"
+},
+{
+  "MCC Code" : 4121,
+  "Classification" : "Taxicabs and Limousines"
+},
+{
+  "MCC Code" : 4131,
+  "Classification" : "Bus Lines, Including Charters, Tour Buses"
+},
+{
+  "MCC Code" : 4214,
+  "Classification" : "Motor Freight Carriers, Moving and Storage Companies, Trucking - Local/Long Distance, Delivery Services - Local"
+},
+{
+  "MCC Code" : 4215,
+  "Classification" : "Courier Services - Air or Ground, Freight forwarders"
+},
+{
+  "MCC Code" : 4225,
+  "Classification" : "Public warehousing, Storage"
+},
+{
+  "MCC Code" : 4411,
+  "Classification" : "Cruise and Steamship Lines"
+},
+{
+  "MCC Code" : 4457,
+  "Classification" : "Boat Rentals and Leases"
+},
+{
+  "MCC Code" : 4468,
+  "Classification" : "Marinas, Marine Service, and Supplies"
+},
+{
+  "MCC Code" : 4511,
+  "Classification" : "Airlines, Air Carriers ( not listed elsewhere)"
+},
+{
+  "MCC Code" : 4582,
+  "Classification" : "Airports, Airport Terminals, Flying Fields"
+},
+{
+  "MCC Code" : 4722,
+  "Classification" : "Travel Agencies and Tour Operations"
+},
+{
+  "MCC Code" : 4723,
+  "Classification" : "Package Tour Operators (For use in Germany only)"
+},
+{
+  "MCC Code" : 4784,
+  "Classification" : "Toll and Bridge Fees"
+},
+{
+  "MCC Code" : 4789,
+  "Classification" : "Transportation Services, Not elsewhere classified)"
+},
+{
+  "MCC Code" : 4812,
+  "Classification" : "Telecommunications Equipment including telephone sales"
+},
+{
+  "MCC Code" : 4814,
+  "Classification" : "Fax services, Telecommunication Services"
+},
+{
+  "MCC Code" : 4815,
+  "Classification" : "VisaPhone"
+},
+{
+  "MCC Code" : 4816,
+  "Classification" : "Computer Network Services"
+},
+{
+  "MCC Code" : 4821,
+  "Classification" : "Telegraph services"
+},
+{
+  "MCC Code" : 4829,
+  "Classification" : "Money Orders - Wire Transfer"
+},
+{
+  "MCC Code" : 4899,
+  "Classification" : "Cable and other pay television (previously Cable Services)"
+},
+{
+  "MCC Code" : 4900,
+  "Classification" : "Electric, Gas, Sanitary and Water Utilities"
+},
+{
+  "MCC Code" : 5013,
+  "Classification" : "Motor vehicle supplies and new parts"
+},
+{
+  "MCC Code" : 5021,
+  "Classification" : "Office and Commercial Furniture"
+},
+{
+  "MCC Code" : 5039,
+  "Classification" : "Construction Materials, Not Elsewhere Classified"
+},
+{
+  "MCC Code" : 5044,
+  "Classification" : "Office, Photographic, Photocopy, and Microfilm Equipment"
+},
+{
+  "MCC Code" : 5045,
+  "Classification" : "Computers, Computer Peripheral Equipment, Software"
+},
+{
+  "MCC Code" : 5046,
+  "Classification" : "Commercial Equipment, Not Elsewhere Classified"
+},
+{
+  "MCC Code" : 5047,
+  "Classification" : "Medical, Dental Ophthalmic, Hospital Equipment and Supplies"
+},
+{
+  "MCC Code" : 5051,
+  "Classification" : "Metal Service Centers and Offices"
+},
+{
+  "MCC Code" : 5065,
+  "Classification" : "Electrical Parts and Equipment"
+},
+{
+  "MCC Code" : 5072,
+  "Classification" : "Hardware Equipment and Supplies"
+},
+{
+  "MCC Code" : 5074,
+  "Classification" : "Plumbing and Heating Equipment and Supplies"
+},
+{
+  "MCC Code" : 5085,
+  "Classification" : "Industrial Supplies, Not Elsewhere Classified"
+},
+{
+  "MCC Code" : 5094,
+  "Classification" : "Precious Stones and Metals, Watches and Jewelry"
+},
+{
+  "MCC Code" : 5099,
+  "Classification" : "Durable Goods, Not Elsewhere Classified"
+},
+{
+  "MCC Code" : 5111,
+  "Classification" : "Stationery, Office Supplies, Printing, and Writing Paper"
+},
+{
+  "MCC Code" : 5122,
+  "Classification" : "Drugs, Drug Proprietors, and Druggistâ€™s Sundries"
+},
+{
+  "MCC Code" : 5131,
+  "Classification" : "Piece Goods, Notions, and Other Dry Goods"
+},
+{
+  "MCC Code" : 5137,
+  "Classification" : "Menâ€™s Womenâ€™s and Childrenâ€™s Uniforms and Commercial Clothing"
+},
+{
+  "MCC Code" : 5139,
+  "Classification" : "Commercial Footwear"
+},
+{
+  "MCC Code" : 5169,
+  "Classification" : "Chemicals and Allied Products, Not Elsewhere Classified"
+},
+{
+  "MCC Code" : 5172,
+  "Classification" : "Petroleum and Petroleum Products"
+},
+{
+  "MCC Code" : 5192,
+  "Classification" : "Books, Periodicals, and Newspapers"
+},
+{
+  "MCC Code" : 5193,
+  "Classification" : "Floristsâ€™ Supplies, Nursery Stock and Flowers"
+},
+{
+  "MCC Code" : 5198,
+  "Classification" : "Paints, Varnishes, and Supplies"
+},
+{
+  "MCC Code" : 5199,
+  "Classification" : "Non-durable Goods, Not Elsewhere Classified"
+},
+{
+  "MCC Code" : 5200,
+  "Classification" : "Home Supply Warehouse Stores"
+},
+{
+  "MCC Code" : 5211,
+  "Classification" : "Lumber and Building Materials Stores"
+},
+{
+  "MCC Code" : 5231,
+  "Classification" : "Glass, Paint, and Wallpaper Stores"
+},
+{
+  "MCC Code" : 5251,
+  "Classification" : "Hardware Stores"
+},
+{
+  "MCC Code" : 5261,
+  "Classification" : "Nurseries - Lawn and Garden Supply Store"
+},
+{
+  "MCC Code" : 5271,
+  "Classification" : "Mobile Home Dealers"
+},
+{
+  "MCC Code" : 5300,
+  "Classification" : "Wholesale Clubs"
+},
+{
+  "MCC Code" : 5309,
+  "Classification" : "Duty Free Store"
+},
+{
+  "MCC Code" : 5310,
+  "Classification" : "Discount Stores"
+},
+{
+  "MCC Code" : 5311,
+  "Classification" : "Department Stores"
+},
+{
+  "MCC Code" : 5331,
+  "Classification" : "Variety Stores"
+},
+{
+  "MCC Code" : 5399,
+  "Classification" : "Misc. General Merchandise"
+},
+{
+  "MCC Code" : 5411,
+  "Classification" : "Grocery Stores, Supermarkets"
+},
+{
+  "MCC Code" : 5422,
+  "Classification" : "Meat Provisioners - Freezer and Locker"
+},
+{
+  "MCC Code" : 5441,
+  "Classification" : "Candy, Nut, and Confectionery Stores"
+},
+{
+  "MCC Code" : 5451,
+  "Classification" : "Dairy Products Stores"
+},
+{
+  "MCC Code" : 5462,
+  "Classification" : "Bakeries"
+},
+{
+  "MCC Code" : 5499,
+  "Classification" : "Misc. Food Stores - Convenience Stores and Specialty Markets"
+},
+{
+  "MCC Code" : 5511,
+  "Classification" : "Car and Truck Dealers (New and Used) Sales, Service, Repairs, Parts, and Leasing"
+},
+{
+  "MCC Code" : 5521,
+  "Classification" : "Automobile and Truck Dealers (Used Only)"
+},
+{
+  "MCC Code" : 5531,
+  "Classification" : "Automobile Supply Stores"
+},
+{
+  "MCC Code" : 5532,
+  "Classification" : "Automotive Tire Stores"
+},
+{
+  "MCC Code" : 5533,
+  "Classification" : "Automotive Parts, Accessories Stores"
+},
+{
+  "MCC Code" : 5541,
+  "Classification" : "Service Stations ( with or without ancillary services)"
+},
+{
+  "MCC Code" : 5542,
+  "Classification" : "Automated Fuel Dispensers"
+},
+{
+  "MCC Code" : 5551,
+  "Classification" : "Boat Dealers"
+},
+{
+  "MCC Code" : 5561,
+  "Classification" : "Recreational and Utility Trailers, Camp Dealers"
+},
+{
+  "MCC Code" : 5571,
+  "Classification" : "Motorcycle Dealers"
+},
+{
+  "MCC Code" : 5592,
+  "Classification" : "Motor Home Dealers"
+},
+{
+  "MCC Code" : 5598,
+  "Classification" : "Snowmobile Dealers"
+},
+{
+  "MCC Code" : 5599,
+  "Classification" : "Miscellaneous Auto Dealers"
+},
+{
+  "MCC Code" : 5611,
+  "Classification" : "Menâ€™s and Boyâ€™s Clothing and Accessories Stores"
+},
+{
+  "MCC Code" : 5621,
+  "Classification" : "Womenâ€™s Ready-to-Wear Stores"
+},
+{
+  "MCC Code" : 5631,
+  "Classification" : "Womenâ€™s Accessory and Specialty Shops"
+},
+{
+  "MCC Code" : 5641,
+  "Classification" : "Childrenâ€™s and Infantâ€™s Wear Stores"
+},
+{
+  "MCC Code" : 5651,
+  "Classification" : "Family Clothing Stores"
+},
+{
+  "MCC Code" : 5655,
+  "Classification" : "Sports Apparel, Riding Apparel Stores"
+},
+{
+  "MCC Code" : 5661,
+  "Classification" : "Shoe Stores"
+},
+{
+  "MCC Code" : 5681,
+  "Classification" : "Furriers and Fur Shops"
+},
+{
+  "MCC Code" : 5691,
+  "Classification" : "Menâ€™s and Womenâ€™s Clothing Stores"
+},
+{
+  "MCC Code" : 5697,
+  "Classification" : "Tailors, Seamstress, Mending, and Alterations"
+},
+{
+  "MCC Code" : 5698,
+  "Classification" : "Wig and Toupee Stores"
+},
+{
+  "MCC Code" : 5699,
+  "Classification" : "Miscellaneous Apparel and Accessory Shops"
+},
+{
+  "MCC Code" : 5712,
+  "Classification" : "Furniture, Home Furnishings, and Equipment Stores, ExceptAppliances"
+},
+{
+  "MCC Code" : 5713,
+  "Classification" : "Floor Covering Stores"
+},
+{
+  "MCC Code" : 5714,
+  "Classification" : "Drapery, Window Covering and Upholstery Stores"
+},
+{
+  "MCC Code" : 5718,
+  "Classification" : "Fireplace, Fireplace Screens, and Accessories Stores"
+},
+{
+  "MCC Code" : 5719,
+  "Classification" : "Miscellaneous Home Furnishing Specialty Stores"
+},
+{
+  "MCC Code" : 5722,
+  "Classification" : "Household Appliance Stores"
+},
+{
+  "MCC Code" : 5732,
+  "Classification" : "Electronic Sales"
+},
+{
+  "MCC Code" : 5733,
+  "Classification" : "Music Stores, Musical Instruments, Piano Sheet Music"
+},
+{
+  "MCC Code" : 5734,
+  "Classification" : "Computer Software Stores"
+},
+{
+  "MCC Code" : 5735,
+  "Classification" : "Record Shops"
+},
+{
+  "MCC Code" : 5811,
+  "Classification" : "Caterers"
+},
+{
+  "MCC Code" : 5812,
+  "Classification" : "Eating places and Restaurants"
+},
+{
+  "MCC Code" : 5813,
+  "Classification" : "Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques"
+},
+{
+  "MCC Code" : 5814,
+  "Classification" : "Fast Food Restaurants"
+},
+{
+  "MCC Code" : 5815,
+  "Classification" : "Digital Goods: Media, Books, Movies, Music"
+},
+{
+  "MCC Code" : 5816,
+  "Classification" : "Digital Goods: Games"
+},
+{
+  "MCC Code" : 5817,
+  "Classification" : "Digital Goods: Applications (Excludes Games)"
+},
+{
+  "MCC Code" : 5818,
+  "Classification" : "Digital Goods: Large Digital Goods Merchant"
+},
+{
+  "MCC Code" : 5832,
+  "Classification" : "Antique Shops - Sales, Repairs, and Restoration Services"
+},
+{
+  "MCC Code" : 5912,
+  "Classification" : "Drug Stores and Pharmacies"
+},
+{
+  "MCC Code" : 5921,
+  "Classification" : "Package Stores - Beer, Wine, and Liquor"
+},
+{
+  "MCC Code" : 5931,
+  "Classification" : "Used Merchandise and Secondhand Stores"
+},
+{
+  "MCC Code" : 5932,
+  "Classification" : "Antique Shops"
+},
+{
+  "MCC Code" : 5933,
+  "Classification" : "Pawn Shops and Salvage Yards"
+},
+{
+  "MCC Code" : 5935,
+  "Classification" : "Wrecking and Salvage Yards"
+},
+{
+  "MCC Code" : 5937,
+  "Classification" : "Antique Reproductions"
+},
+{
+  "MCC Code" : 5940,
+  "Classification" : "Bicycle Shops - Sales and Service"
+},
+{
+  "MCC Code" : 5941,
+  "Classification" : "Sporting Goods Stores"
+},
+{
+  "MCC Code" : 5942,
+  "Classification" : "Book Stores"
+},
+{
+  "MCC Code" : 5943,
+  "Classification" : "Stationery Stores, Office and School Supply Stores"
+},
+{
+  "MCC Code" : 5944,
+  "Classification" : "Watch, Clock, Jewelry, and Silverware Stores"
+},
+{
+  "MCC Code" : 5945,
+  "Classification" : "Hobby, Toy, and Game Shops"
+},
+{
+  "MCC Code" : 5946,
+  "Classification" : "Camera and Photographic Supply Stores"
+},
+{
+  "MCC Code" : 5947,
+  "Classification" : "Card Shops, Gift, Novelty, and Souvenir Shops"
+},
+{
+  "MCC Code" : 5948,
+  "Classification" : "Leather Goods Stores"
+},
+{
+  "MCC Code" : 5949,
+  "Classification" : "Sewing, Needle, Fabric, and Price Goods Stores"
+},
+{
+  "MCC Code" : 5950,
+  "Classification" : "Glassware/Crystal Stores"
+},
+{
+  "MCC Code" : 5960,
+  "Classification" : "Direct Marketing- Insurance Service"
+},
+{
+  "MCC Code" : 5961,
+  "Classification" : "Mail Order Houses Including Catalog Order Stores, Book/Record Clubs (No longer permitted for U.S. original presentments)"
+},
+{
+  "MCC Code" : 5962,
+  "Classification" : "Direct Marketing - Travel Related Arrangements Services"
+},
+{
+  "MCC Code" : 5963,
+  "Classification" : "Door-to-Door Sales"
+},
+{
+  "MCC Code" : 5964,
+  "Classification" : "Direct Marketing - Catalog Merchant"
+},
+{
+  "MCC Code" : 5965,
+  "Classification" : "Direct Marketing - Catalog and Catalog and Retail Merchant"
+},
+{
+  "MCC Code" : 5966,
+  "Classification" : "Direct Marketing- Outbound Telemarketing Merchant"
+},
+{
+  "MCC Code" : 5967,
+  "Classification" : "Direct Marketing - Inbound Teleservices Merchant"
+},
+{
+  "MCC Code" : 5968,
+  "Classification" : "Direct Marketing - Continuity/Subscription Merchant"
+},
+{
+  "MCC Code" : 5969,
+  "Classification" : "Direct Marketing - Not Elsewhere Classified"
+},
+{
+  "MCC Code" : 5970,
+  "Classification" : "Artistâ€™s Supply and Craft Shops"
+},
+{
+  "MCC Code" : 5971,
+  "Classification" : "Art Dealers and Galleries"
+},
+{
+  "MCC Code" : 5972,
+  "Classification" : "Stamp and Coin Stores - Philatelic and Numismatic Supplies"
+},
+{
+  "MCC Code" : 5973,
+  "Classification" : "Religious Goods Stores"
+},
+{
+  "MCC Code" : 5975,
+  "Classification" : "Hearing Aids - Sales, Service, and Supply Stores"
+},
+{
+  "MCC Code" : 5976,
+  "Classification" : "Orthopedic Goods Prosthetic Devices"
+},
+{
+  "MCC Code" : 5977,
+  "Classification" : "Cosmetic Stores"
+},
+{
+  "MCC Code" : 5978,
+  "Classification" : "Typewriter Stores - Sales, Rental, Service"
+},
+{
+  "MCC Code" : 5983,
+  "Classification" : "Fuel - Fuel Oil, Wood, Coal, Liquefied Petroleum"
+},
+{
+  "MCC Code" : 5992,
+  "Classification" : "Florists"
+},
+{
+  "MCC Code" : 5993,
+  "Classification" : "Cigar Stores and Stands"
+},
+{
+  "MCC Code" : 5994,
+  "Classification" : "News Dealers and Newsstands"
+},
+{
+  "MCC Code" : 5995,
+  "Classification" : "Pet Shops, Pet Foods, and Supplies Stores"
+},
+{
+  "MCC Code" : 5996,
+  "Classification" : "Swimming Pools - Sales, Service, and Supplies"
+},
+{
+  "MCC Code" : 5997,
+  "Classification" : "Electric Razor Stores - Sales and Service"
+},
+{
+  "MCC Code" : 5998,
+  "Classification" : "Tent and Awning Shops"
+},
+{
+  "MCC Code" : 5999,
+  "Classification" : "Miscellaneous and Specialty Retail Stores"
+},
+{
+  "MCC Code" : 6010,
+  "Classification" : "Financial Institutions - Manual Cash Disbursements"
+},
+{
+  "MCC Code" : 6011,
+  "Classification" : "Financial Institutions - Manual Cash Disbursements"
+},
+{
+  "MCC Code" : 6012,
+  "Classification" : "Financial Institutions - Merchandise and Services"
+},
+{
+  "MCC Code" : 6051,
+  "Classification" : "Non-Financial Institutions - Foreign Currency, Money Orders (not wire transfer) and Travelers Cheques"
+},
+{
+  "MCC Code" : 6211,
+  "Classification" : "Security Brokers/Dealers"
+},
+{
+  "MCC Code" : 6300,
+  "Classification" : "Insurance Sales, Underwriting, and Premiums"
+},
+{
+  "MCC Code" : 6381,
+  "Classification" : "Insurance Premiums, (no longer valid for first presentment work)"
+},
+{
+  "MCC Code" : 6399,
+  "Classification" : "Insurance, Not Elsewhere Classified ( no longer valid forfirst presentment work)"
+},
+{
+  "MCC Code" : 6513,
+  "Classification" : "Real Estate Agents and Managers - Rentals"
+},
+{
+  "MCC Code" : 7011,
+  "Classification" : "Lodging - Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)"
+},
+{
+  "MCC Code" : 7012,
+  "Classification" : "Timeshares"
+},
+{
+  "MCC Code" : 7032,
+  "Classification" : "Sporting and Recreational Camps"
+},
+{
+  "MCC Code" : 7033,
+  "Classification" : "Trailer Parks and Camp Grounds"
+},
+{
+  "MCC Code" : 7210,
+  "Classification" : "Laundry, Cleaning, and Garment Services"
+},
+{
+  "MCC Code" : 7211,
+  "Classification" : "Laundry - Family and Commercial"
+},
+{
+  "MCC Code" : 7216,
+  "Classification" : "Dry Cleaners"
+},
+{
+  "MCC Code" : 7217,
+  "Classification" : "Carpet and Upholstery Cleaning"
+},
+{
+  "MCC Code" : 7221,
+  "Classification" : "Photographic Studios"
+},
+{
+  "MCC Code" : 7230,
+  "Classification" : "Barber and Beauty Shops"
+},
+{
+  "MCC Code" : 7251,
+  "Classification" : "Shop Repair Shops and Shoe Shine Parlors, and Hat Cleaning Shops"
+},
+{
+  "MCC Code" : 7261,
+  "Classification" : "Funeral Service and Crematories"
+},
+{
+  "MCC Code" : 7273,
+  "Classification" : "Dating and Escort Services"
+},
+{
+  "MCC Code" : 7276,
+  "Classification" : "Tax Preparation Service"
+},
+{
+  "MCC Code" : 7277,
+  "Classification" : "Counseling Service - Debt, Marriage, Personal"
+},
+{
+  "MCC Code" : 7278,
+  "Classification" : "Buying/Shopping Services, Clubs"
+},
+{
+  "MCC Code" : 7296,
+  "Classification" : "Clothing Rental - Costumes, Formal Wear, Uniforms"
+},
+{
+  "MCC Code" : 7297,
+  "Classification" : "Massage Parlors"
+},
+{
+  "MCC Code" : 7298,
+  "Classification" : "Health and Beauty Shops"
+},
+{
+  "MCC Code" : 7299,
+  "Classification" : "Miscellaneous Personal Services ( not elsewhere classifies)"
+},
+{
+  "MCC Code" : 7311,
+  "Classification" : "Advertising Services"
+},
+{
+  "MCC Code" : 7321,
+  "Classification" : "Consumer Credit Reporting Agencies"
+},
+{
+  "MCC Code" : 7332,
+  "Classification" : "Blueprinting and Photocopying Services"
+},
+{
+  "MCC Code" : 7333,
+  "Classification" : "Commercial Photography, Art and Graphics"
+},
+{
+  "MCC Code" : 7338,
+  "Classification" : "Quick Copy, Reproduction and Blueprinting Services"
+},
+{
+  "MCC Code" : 7339,
+  "Classification" : "Stenographic and Secretarial Support Services"
+},
+{
+  "MCC Code" : 7342,
+  "Classification" : "Exterminating and Disinfecting Services"
+},
+{
+  "MCC Code" : 7349,
+  "Classification" : "Cleaning and Maintenance, Janitorial Services"
+},
+{
+  "MCC Code" : 7361,
+  "Classification" : "Employment Agencies, Temporary Help Services"
+},
+{
+  "MCC Code" : 7372,
+  "Classification" : "Computer Programming, Integrated Systems Design and Data Processing Services"
+},
+{
+  "MCC Code" : 7375,
+  "Classification" : "Information Retrieval Services"
+},
+{
+  "MCC Code" : 7379,
+  "Classification" : "Computer Maintenance and Repair Services, Not Elsewhere Classified"
+},
+{
+  "MCC Code" : 7392,
+  "Classification" : "Management, Consulting, and Public Relations Services"
+},
+{
+  "MCC Code" : 7393,
+  "Classification" : "Protective and Security Services - Including Armored Carsand Guard Dogs"
+},
+{
+  "MCC Code" : 7394,
+  "Classification" : "Equipment Rental and Leasing Services, Tool Rental, Furniture Rental, and Appliance Rental"
+},
+{
+  "MCC Code" : 7395,
+  "Classification" : "Photofinishing Laboratories, Photo Developing"
+},
+{
+  "MCC Code" : 7399,
+  "Classification" : "Business Services, Not Elsewhere Classified"
+},
+{
+  "MCC Code" : 7511,
+  "Classification" : "Truck Stop"
+},
+{
+  "MCC Code" : 7512,
+  "Classification" : "Car Rental Companies ( Not Listed Below)"
+},
+{
+  "MCC Code" : 7513,
+  "Classification" : "Truck and Utility Trailer Rentals"
+},
+{
+  "MCC Code" : 7519,
+  "Classification" : "Motor Home and Recreational Vehicle Rentals"
+},
+{
+  "MCC Code" : 7523,
+  "Classification" : "Automobile Parking Lots and Garages"
+},
+{
+  "MCC Code" : 7531,
+  "Classification" : "Automotive Body Repair Shops"
+},
+{
+  "MCC Code" : 7534,
+  "Classification" : "Tire Re-treading and Repair Shops"
+},
+{
+  "MCC Code" : 7535,
+  "Classification" : "Paint Shops - Automotive"
+},
+{
+  "MCC Code" : 7538,
+  "Classification" : "Automotive Service Shops"
+},
+{
+  "MCC Code" : 7542,
+  "Classification" : "Car Washes"
+},
+{
+  "MCC Code" : 7549,
+  "Classification" : "Towing Services"
+},
+{
+  "MCC Code" : 7622,
+  "Classification" : "Radio Repair Shops"
+},
+{
+  "MCC Code" : 7623,
+  "Classification" : "Air Conditioning and Refrigeration Repair Shops"
+},
+{
+  "MCC Code" : 7629,
+  "Classification" : "Electrical And Small Appliance Repair Shops"
+},
+{
+  "MCC Code" : 7631,
+  "Classification" : "Watch, Clock, and Jewelry Repair"
+},
+{
+  "MCC Code" : 7641,
+  "Classification" : "Furniture, Furniture Repair, and Furniture Refinishing"
+},
+{
+  "MCC Code" : 7692,
+  "Classification" : "Welding Repair"
+},
+{
+  "MCC Code" : 7699,
+  "Classification" : "Repair Shops and Related Services -Miscellaneous"
+},
+{
+  "MCC Code" : 7800,
+  "Classification" : "Government-Owned Lotteries"
+},
+{
+  "MCC Code" : 7801,
+  "Classification" : "Government-Licensed On-Line Casinos (On-Line Gambling)"
+},
+{
+  "MCC Code" : 7802,
+  "Classification" : "Government-Licensed Horse/Dog Racing"
+},
+{
+  "MCC Code" : 7829,
+  "Classification" : "Motion Pictures and Video Tape Production and Distribution"
+},
+{
+  "MCC Code" : 7832,
+  "Classification" : "Motion Picture Theaters"
+},
+{
+  "MCC Code" : 7841,
+  "Classification" : "Video Tape Rental Stores"
+},
+{
+  "MCC Code" : 7911,
+  "Classification" : "Dance Halls, Studios and Schools"
+},
+{
+  "MCC Code" : 7922,
+  "Classification" : "Theatrical Producers (Except Motion Pictures), Ticket Agencies"
+},
+{
+  "MCC Code" : 7929,
+  "Classification" : "Bands, Orchestras, and Miscellaneous Entertainers (Not Elsewhere Classified)"
+},
+{
+  "MCC Code" : 7932,
+  "Classification" : "Billiard and Pool Establishments"
+},
+{
+  "MCC Code" : 7933,
+  "Classification" : "Bowling Alleys"
+},
+{
+  "MCC Code" : 7941,
+  "Classification" : "Commercial Sports, Athletic Fields, Professional Sport Clubs, and Sport Promoters"
+},
+{
+  "MCC Code" : 7991,
+  "Classification" : "Tourist Attractions and Exhibits"
+},
+{
+  "MCC Code" : 7992,
+  "Classification" : "Golf Courses - Public"
+},
+{
+  "MCC Code" : 7993,
+  "Classification" : "Video Amusement Game Supplies"
+},
+{
+  "MCC Code" : 7994,
+  "Classification" : "Video Game Arcades/Establishments"
+},
+{
+  "MCC Code" : 7995,
+  "Classification" : "Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)"
+},
+{
+  "MCC Code" : 7996,
+  "Classification" : "Amusement Parks, Carnivals, Circuses, Fortune Tellers"
+},
+{
+  "MCC Code" : 7997,
+  "Classification" : "Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses"
+},
+{
+  "MCC Code" : 7998,
+  "Classification" : "Aquariums, Sea-aquariums, Dolphinariums"
+},
+{
+  "MCC Code" : 7999,
+  "Classification" : "Recreation Services (Not Elsewhere Classified)"
+},
+{
+  "MCC Code" : 8011,
+  "Classification" : "Doctors and Physicians (Not Elsewhere Classified)"
+},
+{
+  "MCC Code" : 8021,
+  "Classification" : "Dentists and Orthodontists"
+},
+{
+  "MCC Code" : 8031,
+  "Classification" : "Osteopaths"
+},
+{
+  "MCC Code" : 8041,
+  "Classification" : "Chiropractors"
+},
+{
+  "MCC Code" : 8042,
+  "Classification" : "Optometrists and Ophthalmologists"
+},
+{
+  "MCC Code" : 8043,
+  "Classification" : "Opticians, Opticians Goods and Eyeglasses"
+},
+{
+  "MCC Code" : 8044,
+  "Classification" : "Opticians, Optical Goods, and Eyeglasses (no longer validfor first presentments)"
+},
+{
+  "MCC Code" : 8049,
+  "Classification" : "Podiatrists and Chiropodists"
+},
+{
+  "MCC Code" : 8050,
+  "Classification" : "Nursing and Personal Care Facilities"
+},
+{
+  "MCC Code" : 8062,
+  "Classification" : "Hospitals"
+},
+{
+  "MCC Code" : 8071,
+  "Classification" : "Medical and Dental Laboratories"
+},
+{
+  "MCC Code" : 8099,
+  "Classification" : "Medical Services and Health Practitioners (Not Elsewhere Classified)"
+},
+{
+  "MCC Code" : 8111,
+  "Classification" : "Legal Services and Attorneys"
+},
+{
+  "MCC Code" : 8211,
+  "Classification" : "Elementary and Secondary Schools"
+},
+{
+  "MCC Code" : 8220,
+  "Classification" : "Colleges, Junior Colleges, Universities, and ProfessionalSchools"
+},
+{
+  "MCC Code" : 8241,
+  "Classification" : "Correspondence Schools"
+},
+{
+  "MCC Code" : 8244,
+  "Classification" : "Business and Secretarial Schools"
+},
+{
+  "MCC Code" : 8249,
+  "Classification" : "Vocational Schools and Trade Schools"
+},
+{
+  "MCC Code" : 8299,
+  "Classification" : "Schools and Educational Services ( Not Elsewhere Classified)"
+},
+{
+  "MCC Code" : 8351,
+  "Classification" : "Child Care Services"
+},
+{
+  "MCC Code" : 8398,
+  "Classification" : "Charitable and Social Service Organizations"
+},
+{
+  "MCC Code" : 8641,
+  "Classification" : "Civic, Fraternal, and Social Associations"
+},
+{
+  "MCC Code" : 8651,
+  "Classification" : "Political Organizations"
+},
+{
+  "MCC Code" : 8661,
+  "Classification" : "Religious Organizations"
+},
+{
+  "MCC Code" : 8675,
+  "Classification" : "Automobile Associations"
+},
+{
+  "MCC Code" : 8699,
+  "Classification" : "Membership Organizations ( Not Elsewhere Classified)"
+},
+{
+  "MCC Code" : 8734,
+  "Classification" : "Testing Laboratories ( non-medical)"
+},
+{
+  "MCC Code" : 8911,
+  "Classification" : "Architectural - Engineering and Surveying Services"
+},
+{
+  "MCC Code" : 8931,
+  "Classification" : "Accounting, Auditing, and Bookkeeping Services"
+},
+{
+  "MCC Code" : 8999,
+  "Classification" : "Professional Services ( Not Elsewhere Defined)"
+},
+{
+  "MCC Code" : 9211,
+  "Classification" : "Court Costs, including Alimony and Child Support"
+},
+{
+  "MCC Code" : 9222,
+  "Classification" : "Fines"
+},
+{
+  "MCC Code" : 9223,
+  "Classification" : "Bail and Bond Payments"
+},
+{
+  "MCC Code" : 9311,
+  "Classification" : "Tax Payments"
+},
+{
+  "MCC Code" : 9399,
+  "Classification" : "Government Services ( Not Elsewhere Classified)"
+},
+{
+  "MCC Code" : 9402,
+  "Classification" : "Postal Services - Government Only"
+},
+{
+  "MCC Code" : 9405,
+  "Classification" : "Intra - Government Transactions"
+},
+{
+  "MCC Code" : 9700,
+  "Classification" : "Automated Referral Service ( For Visa Only)"
+},
+{
+  "MCC Code" : 9701,
+  "Classification" : "Visa Credential Service ( For Visa Only)"
+},
+{
+  "MCC Code" : 9702,
+  "Classification" : "GCAS Emergency Services ( For Visa Only)"
+},
+{
+  "MCC Code" : 9950,
+  "Classification" : "Intra - Company Purchases ( For Visa Only)"
+}]}
