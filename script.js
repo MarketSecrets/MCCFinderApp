@@ -23,6 +23,7 @@ domReady(function () {
             })
             .catch(error => {
                 console.error('Error fetching MCC data:', error);
+                alert("Ff);
             });
     }
 
