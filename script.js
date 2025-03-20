@@ -43,6 +43,10 @@ domReady(function () {
                 const mccEntry = mccData.find(entry => entry['MCC Code'] == mc_value);
                 if (mccEntry) {
                     alert("MCC Classification is : " + mccEntry.Classification);
+                    if(confirm("Launch UPI App?")) 
+                      {
+                      document.location = 'upi://pay?pa=UPIID@oksbi&amp;pn=FNAME SNAME K&amp;cu=INR';
+                      }
                 } else {
                     alert("MCC Classification not found");
                 }
