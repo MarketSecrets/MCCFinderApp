@@ -47,7 +47,7 @@ domReady(function () {
                     alert("MCC Classification is : " + mccEntry.Classification);
                     if(confirm("Launch UPI App?")) 
                       {
-                            $('#html5-qrcode-button-camera-stop').click()
+                           // $('#html5-qrcode-button-camera-stop').click()
                       document.location = 'upi://pay?pa=UPIID@oksbi&amp;pn=FNAME SNAME K&amp;cu=INR';
                       }
                 } else {
@@ -60,7 +60,7 @@ domReady(function () {
         alert("MCC Code not found in the QR code.");
         }
         //htmlscanner.clear();
-        //htmlscanner.stop();
+        htmlscanner.stop();
        
         }
 
