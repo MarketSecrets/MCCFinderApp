@@ -18,12 +18,10 @@ domReady(function () {
         return fetch('mcc.json')
             .then(response => response.json())
             .then(data => {
-                alert(data.data);
                 return data.data;
             })
             .catch(error => {
                 console.error('Error fetching MCC data:', error);
-                alert("Ff");
             });
     }
 
@@ -38,14 +36,11 @@ domReady(function () {
 
 
         //alert("You Qr is : " + decodeText, decodeResult);
-        alert("fff");
-        if(mc_value!=null){
-            alert("dddd");
-            alert(mc_value);
+
+        if(mc_value){
         // Fetch MCC data and use it
         fetchMccData().then(mccData => {
             if (mccData) {
-                alert(mccData);
                 const mccEntry = mccData.find(entry => entry['MCC Code'] == mc_value);
                 if (mccEntry) {
                     alert("MCC Classification: " + mccEntry.Classification);
