@@ -36,9 +36,9 @@ domReady(function () {
 
         //alert("You Qr is : " + decodeText, decodeResult);
         if(mc_value){
-             
+             $('#html5-qrcode-button-camera-stop').click()
         alert("MCC Code is : " + mc_value);
-            htmlscanner.stop();
+            
         // Fetch MCC data and use it
         fetchMccData().then(mccData => {
             if (mccData) {
@@ -59,6 +59,7 @@ domReady(function () {
         alert("MCC Code not found in the QR code.");
         }
         //htmlscanner.clear();
+        //htmlscanner.stop();
        
         }
 
