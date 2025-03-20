@@ -56,7 +56,8 @@ domReady(function () {
         else{
         alert("MCC Code not found in the QR code.");
         }
-        htmlscanner.clear();
+        //htmlscanner.clear();
+        htmlscanner.pause();
         }
 
     let htmlscanner = new Html5QrcodeScanner(
