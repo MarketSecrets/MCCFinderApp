@@ -36,7 +36,7 @@ domReady(function () {
 
         //alert("You Qr is : " + decodeText, decodeResult);
         if(mc_value){
-             $('#html5-qrcode-button-camera-stop').click()
+           
         alert("MCC Code is : " + mc_value);
             
         // Fetch MCC data and use it
@@ -47,6 +47,7 @@ domReady(function () {
                     alert("MCC Classification is : " + mccEntry.Classification);
                     if(confirm("Launch UPI App?")) 
                       {
+                            $('#html5-qrcode-button-camera-stop').click()
                       document.location = 'upi://pay?pa=UPIID@oksbi&amp;pn=FNAME SNAME K&amp;cu=INR';
                       }
                 } else {
