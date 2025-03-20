@@ -30,15 +30,13 @@ domReady(function () {
         parsed_url = new URL(decodeText);
         query_params = Object.fromEntries(new URLSearchParams(parsed_url.search));
         mc_value = query_params.mc || null;
-//        alert("MCC Code is : " + mc_value);
-        //if(mc_value){}
+
 
 
 
         //alert("You Qr is : " + decodeText, decodeResult);
-
         if(mc_value){
-            alert("MCC is : " + mc_value);
+        alert("MCC Code is : " + mc_value);
         // Fetch MCC data and use it
         fetchMccData().then(mccData => {
             if (mccData) {
@@ -51,9 +49,8 @@ domReady(function () {
             }
         });
         }
-        else
-        {
-            alert("MCC code/information not found in the QR Code");
+        else{
+        alert("MCC Code not found in the QR code.");}
         }
 
     let htmlscanner = new Html5QrcodeScanner(
