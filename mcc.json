@@ -1,0 +1,38 @@
+[
+    {
+        "MCC Code": "742",
+        "Classification": "Veterinary Services "
+    },
+    {
+        "MCC Code": "763",
+        "Classification": "Agricultural Co-operatives "
+    },
+    {
+        "MCC Code": "780",
+        "Classification": "Horticultural Services, Landscaping Services "
+    },
+    {
+        "MCC Code": "1520",
+        "Classification": "General Contractors-Residential and Commercial "
+    },
+    {
+        "MCC Code": "1711",
+        "Classification": "Air Conditioning Contractors - Sales and Installation, Heating Contractors - Sales, Service, Installation "
+    },
+    {
+        "MCC Code": "1731",
+        "Classification": "Electrical Contractors "
+    },
+    {
+        "MCC Code": "1740",
+        "Classification": "Insulation - Contractors, Masonry, Stonework Contractors, Plastering Contractors, Stonework and Masonry Contractors, Tile Settings Contractors "
+    },
+    {
+        "MCC Code": "1750",
+        "Classification": "Carpentry Contractors "
+    },
+    {
+        "MCC Code": "1761",
+        "Classification": "Roofing - Contractors, Sheet Metal Work - Contractors, Siding - Contractors "
+    }
+]
