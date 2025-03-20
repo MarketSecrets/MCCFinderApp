@@ -38,9 +38,11 @@ domReady(function () {
         //alert("You Qr is : " + decodeText, decodeResult);
 
         if(mc_value){
+            alert(mc_value);
         // Fetch MCC data and use it
         fetchMccData().then(mccData => {
             if (mccData) {
+                alert(mccData);
                 const mccEntry = mccData.find(entry => entry['MCC Code'] == mc_value);
                 if (mccEntry) {
                     alert("MCC Classification: " + mccEntry.Classification);
