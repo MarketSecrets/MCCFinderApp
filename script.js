@@ -30,7 +30,7 @@ domReady(function () {
         parsed_url = new URL(decodeText);
         query_params = Object.fromEntries(new URLSearchParams(parsed_url.search));
         mc_value = query_params.mc || null;
-        alert("MCC is : " + mc_value);
+//        alert("MCC Code is : " + mc_value);
         //if(mc_value){}
 
 
@@ -38,18 +38,22 @@ domReady(function () {
         //alert("You Qr is : " + decodeText, decodeResult);
 
         if(mc_value){
+            alert("MCC is : " + mc_value);
         // Fetch MCC data and use it
         fetchMccData().then(mccData => {
             if (mccData) {
                 const mccEntry = mccData.find(entry => entry['MCC Code'] == mc_value);
                 if (mccEntry) {
-                    alert("MCC Classification: " + mccEntry.Classification);
+                    alert("MCC Classification is : " + mccEntry.Classification);
                 } else {
-                    alert("MCC Code not found");
+                    alert("MCC Classification not found");
                 }
             }
         });
         }
+        else
+        {
+            alert("MCC code/information not found in the QR Code");
         }
 
     let htmlscanner = new Html5QrcodeScanner(
