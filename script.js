@@ -23,7 +23,7 @@ domReady(function () {
             })
             .catch(error => {
                 console.error('Error fetching MCC data:', error);
-                alert("Ff);
+                alert("Ff");
             });
     }
 
@@ -38,8 +38,9 @@ domReady(function () {
 
 
         //alert("You Qr is : " + decodeText, decodeResult);
-
-        if(mc_value){
+        alert("fff");
+        if(mc_value!=null){
+            alert("dddd");
             alert(mc_value);
         // Fetch MCC data and use it
         fetchMccData().then(mccData => {
